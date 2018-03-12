@@ -5,5 +5,3 @@ def using_while
 		puts "Windgardium Leviosa"
 	end
 end
-
-
